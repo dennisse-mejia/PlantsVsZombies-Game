@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/Resources"/>
+    <qresource prefix="/">
+        <file>Resources/1stWall.png</file>
+        <file>Resources/1stLevel.png</file>
+        <file>Resources/newUser.png</file>
+        <file>Resources/userRest.png</file>
+        <file>Resources/welcomePg.png</file>
+        <file>Resources/badSun.png</file>
+        <file>Resources/coneZombie.png</file>
+        <file>Resources/goodSun.png</file>
+        <file>Resources/graveStone.png</file>
+        <file>Resources/motoSierra.png</file>
+        <file>Resources/nuez.png</file>
+        <file>Resources/peaShooter.png</file>
+        <file>Resources/sunFlower.png</file>
+        <file>Resources/zombieNormal.png</file>
+        <file>Resources/shootie.png</file>
+        <file>Resources/pickSide.png</file>
+        <file>Resources/addUser.png</file>
+        <file>Resources/createUser.png</file>
+        <file>Resources/deleteUser.png</file>
+        <file>Resources/renameUser.png</file>
+        <file>Resources/shadedConeZ.png</file>
+        <file>Resources/shadedgraveStone.png</file>
+        <file>Resources/shadedNormalZombie.png</file>
+        <file>Resources/shadednuez.png</file>
+        <file>Resources/shadedpeaShooter.png</file>
+        <file>Resources/shadedsunFlower.png</file>
+        <file>Resources/cuteMush.png</file>
+        <file>Resources/oldZombie.png</file>
+        <file>Resources/puff.png</file>
+        <file>Resources/sportZombie.png</file>
+        <file>Resources/shootieN.png</file>
+        <file>Resources/2ndLevel.png</file>
+        <file>Resources/duckieZombie.png</file>
+        <file>Resources/pad.png</file>
+        <file>Resources/swimZombie.png</file>
+        <file>Resources/3rdLevel.png</file>
+        <file>Resources/shadedOldZombie.png</file>
+        <file>Resources/shadedSportZombie.png</file>
+        <file>Resources/padPeaShooter.png</file>
+        <file>Resources/padSunFlower.png</file>
+        <file>Resources/shadedDuckieZombie.png</file>
+        <file>Resources/shadedSwimZombie.png</file>
+    </qresource>
+</RCC>
